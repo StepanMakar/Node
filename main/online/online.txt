@@ -1,0 +1,12 @@
+age - 19
+city - Kyiv
+age - 25
+name - Oleg
+city - Odessa
+name - Maks
+name - Oleg
+age - 19
+city - Kyiv
+age - 25
+city - Odessa
+name - Maks

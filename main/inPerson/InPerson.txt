@@ -1,0 +1,12 @@
+name - Andrii
+age - 22
+city - Lviv
+name - Stepan
+age - 24
+city - Lviv
+name - Andrii
+age - 22
+name - Stepan
+city - Lviv
+city - Lviv
+age - 24
